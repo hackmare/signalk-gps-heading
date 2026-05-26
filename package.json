@@ -1,0 +1,21 @@
+{
+  "name": "signalk-gps-heading",
+  "version": "0.1.0",
+  "description": "Compute true heading and midpoint position from two GPS antennas",
+  "main": "index.js",
+  "files": ["index.js"],
+  "keywords": ["signalk", "signalk-node-server-plugin", "gps", "heading", "dual-gps"],
+  "author": "Morgane Oger <m.oger@roitsystems.ca>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hackmare/signalk-gps-heading.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hackmare/signalk-gps-heading/issues"
+  },
+  "homepage": "https://github.com/hackmare/signalk-gps-heading#readme",
+  "engines": {
+    "node": ">=12"
+  }
+}
